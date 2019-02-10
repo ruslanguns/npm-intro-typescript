@@ -1,0 +1,27 @@
+{
+    "name": "npm-intro-typescript",
+    "version": "1.0.0",
+    "description": "Introducción a Node con TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ruslanguns/anartz-npm-intro-typescript.git"
+    },
+    "keywords": [
+        "nodejs",
+        "npm",
+        "node",
+        "typescript",
+        "tsc"
+    ],
+    "author": "Ruslan Gonzalez <ruslanguns@gmail.com> (http://rusgunx.tk/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ruslanguns/anartz-npm-intro-typescript/issues"
+    },
+    "homepage": "https://github.com/ruslanguns/anartz-npm-intro-typescript#readme"
+}
